@@ -5,12 +5,12 @@ Esse projeto foi realizado como parte do aprendizado das aulas de JavaScript rea
 
 CalculadoraJs tem os funcionamentos de uma calculadora normal com as principais funções matemáticas.
 
-# :white_check_mark: Projeto finalizado!
+#
 
-# 📁 Acesso ao projeto
+<strong>:open_file_folder: Acesso ao projeto: </strong>
 
-Projeto está disponivel no Github atraves do link: https://github.com/LeoniZIlli/CalculadoraJS
+  • Voocê pode <a href="https://github.com/LeoniZIlli/CalculadoraJS/">acessar o código fonte do projeto</a> ou <a href="https://github.com/LeoniZIlli/CalculadoraJS/archive/refs/heads/main.zip">baixá-lo</a>
 
-# 🛠️ Abrir e rodar o projeto
+<strong>:hammer: Rodar o projeto: </strong>
 
-Projeto está disponivel no gitpages através o link: https://leonizilli.github.io/CalculadoraJS/
+  • Projeto está <a href="https://leonizilli.github.io/CalculadoraJS/">disponível no gitpages</a>.
